@@ -52,6 +52,7 @@
           <li><a class="nav-link scrollto" href="#about">About Us</a></li>
           <li><a class="nav-link scrollto o" href="#services">Services</a></li>
           <li><a class="nav-link scrollto" href="#portfolio">Portofolio</a></li>
+          <li><a class="nav-link scrollto" href="#Benefit">Benefit</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
@@ -283,6 +284,62 @@
       </div>
     </section><!-- End Testimonials Section -->
 
+    <!-- ======= Benefit Section ======= -->
+    <section id="Benefit" class="services section-bg">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Benefit</h2>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon-box iconbox-blue">
+              <div class="icon">
+                <img src="../image/office.png">
+              </div>
+              <h4><a href="">Office</a></h4>
+              <p>You don't need to think about the workspace, because we have prepared for your team.</p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
+            <div class="icon-box iconbox-orange ">
+              <div class="icon">
+                <img src="../image/insurance.png">
+              </div>
+              <h4><a href="">Insurance</a></h4>
+              <p>No need to bother with employee insurance, 
+                we have taken care of everything for you, just focus on your business.</p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
+            <div class="icon-box iconbox-orange ">
+              <div class="icon">
+                <img src="../image/pantry.png">
+              </div>
+              <h4><a href="">Pantry and Facilities</a></h4>
+              <p>You can reduce your operational costs, both internet, lunch snacks, electricity, water and others.</p>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
+            <div class="icon-box iconbox-orange ">
+              <div class="icon">
+                <img src="../image/seniortim.png">
+              </div>
+              <h4><a href="">Senior Team</a></h4>
+              <p>You will get a senior team with an average of 5+ more experience.</p>
+            </div>
+          </div>
+
+        
+        </div>
+
+      </div>
+    </section><!-- End Benefit Section -->
+
     <!-- ======= Services Section ======= -->
     <section id="services" class="services section-bg">
       <div class="container" data-aos="fade-up">
@@ -469,9 +526,7 @@
           
         </div>
 
-        <div>
       
-        </div>
 
         <div class="row mt-5">
 
@@ -500,9 +555,10 @@
           </div>
 
          
-          </div>
+          
 
         </div>
+        
 
       </div>
     </section><!-- End Contact Section -->
@@ -588,14 +644,14 @@
 
       <div class="me-md-auto text-center text-md-start">
         <div class="copyright">
-          &copy; Copyright <strong><span>SirTolsky</span></strong>. All Rights Reserved
+          &copy; 2021 <strong><span>Copyright</span></strong>. Nikola Group Indonesia
         </div>
         <div class="credits">
           <!-- All the links in the footer should remain intact. -->
           <!-- You can delete the links only if you purchased the pro version. -->
           <!-- Licensing information: https://bootstrapmade.com/license/ -->
           <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/onepage-multipurpose-bootstrap-template/ -->
-          Designed by <a href="https://bootstrapmade.com/">Who'sYourDaddy</a>
+          Designed by <a href="">Nikola Group Indonesia</a>
         </div>
       </div>
       <div class="social-links text-center text-md-right pt-3 pt-md-0">

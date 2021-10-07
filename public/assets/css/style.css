@@ -10,7 +10,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #444444;
+  color: #000000;
 }
 
 a {
@@ -171,7 +171,7 @@ h1, h2, h3, h4, h5, h6 {
   justify-content: space-between;
   padding: 10px 0 10px 30px;
   font-size: 17px;
-  color: #000000;
+  color: #ffffff;
   white-space: nowrap;
   transition: 0.3s;
 }
@@ -365,11 +365,11 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 56px;
   font-weight: 700;
   line-height: 72px;
-  color: #124265;
+  color: #000000;
   font-family: "Poppins", sans-serif;
 }
 #hero h2 {
-  color: #5e5e5e;
+  color: #000000;
   margin: 10px 0 0 0;
   font-size: 22px;
 }
@@ -408,7 +408,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 18px;
 }
 #hero .icon-box .title a {
-  color: #124265;
+  color: #000000;
   transition: 0.3s;
 }
 #hero .icon-box .description {
@@ -423,13 +423,13 @@ h1, h2, h3, h4, h5, h6 {
   transition: all 0.3s ease-in-out;
   font-size: 36px;
   line-height: 1;
-  color: #2487ce;
+  color: #000000;
 }
 #hero .icon-box:hover {
   transform: scale(1.08);
 }
 #hero .icon-box:hover .title a {
-  color: #2487ce;
+  color: #000000;
 }
 @media (min-width: 1024px) {
   #hero {
@@ -477,7 +477,7 @@ section {
   text-transform: uppercase;
   margin-bottom: 20px;
   padding-bottom: 0;
-  color: #124265;
+  color: #000000;
 }
 .section-title p {
   margin-bottom: 0;
@@ -508,7 +508,7 @@ section {
   left: 0;
   top: 2px;
   font-size: 20px;
-  color: #2487ce;
+  color: #000000;
   line-height: 1;
 }
 .about .content p:last-child {
@@ -524,14 +524,14 @@ section {
   border-radius: 5px;
   transition: 0.3s;
   line-height: 1;
-  color: #2487ce;
+  color: #000000;
   -webkit-animation-delay: 0.8s;
   animation-delay: 0.8s;
   margin-top: 6px;
-  border: 2px solid #2487ce;
+  border: 2px solid #000000;
 }
 .about .content .btn-learn-more:hover {
-  background: #2487ce;
+  background: #000000;
   color: #fff;
   text-decoration: none;
 }
@@ -551,7 +551,7 @@ section {
   line-height: 48px;
   display: block;
   font-weight: 700;
-  color: #124265;
+  color: #000000;
   margin-left: 80px;
   margin: auto;
 }
@@ -560,7 +560,7 @@ section {
   font-family: "Raleway", sans-serif;
   font-weight: 600;
   font-size: 14px;
-  color: #1e6ca6;
+  color: #000000;
 }
 
 /*--------------------------------------------------------------
@@ -572,7 +572,7 @@ section {
 .about-video .content h3 {
   font-weight: 700;
   font-size: 24px;
-  color: #124265;
+  color: #000000;
 }
 .about-video .content ul {
   list-style: none;
@@ -585,7 +585,7 @@ section {
 }
 .about-video .content ul i {
   font-size: 24px;
-  color: #2487ce;
+  color: #000000;
   position: absolute;
   left: 0;
   top: -2px;
@@ -731,7 +731,7 @@ section {
 }
 .testimonials .testimonial-item h4 {
   font-size: 14px;
-  color: #999;
+  color: rgb(0, 0, 0);
   margin: 0;
 }
 .testimonials .testimonial-item .quote-icon-left, .testimonials .testimonial-item .quote-icon-right {
@@ -895,7 +895,7 @@ section {
 # Cta
 --------------------------------------------------------------*/
 .cta {
-  background: #2487ce;
+  background: #000000;
   background-size: cover;
   padding: 60px 0;
 }
@@ -1146,7 +1146,7 @@ section {
 }
 .team .member .social a {
   transition: color 0.3s;
-  color: #124265;
+  color: #000000;
   margin: 0 10px;
   display: inline-block;
 }
@@ -1171,13 +1171,13 @@ section {
   display: block;
   font-size: 13px;
   font-weight: 400;
-  color: #aaaaaa;
+  color: #000000;
 }
 .team .member .member-info p {
   font-style: italic;
   font-size: 14px;
   line-height: 26px;
-  color: #777777;
+  color: #000000;
 }
 .team .member:hover .social {
   opacity: 1;
@@ -1368,19 +1368,19 @@ section {
   font-size: 22px;
   font-weight: 600;
   margin-bottom: 5px;
-  color: #124265;
+  color: #000000;
 }
 .contact .info p {
   padding: 0 0 0 60px;
   margin-bottom: 0;
   font-size: 14px;
-  color: #217bbc;
+  color: #000000;
 }
 .contact .info .email, .contact .info .phone {
   margin-top: 40px;
 }
 .contact .info .email:hover i, .contact .info .address:hover i, .contact .info .phone:hover i {
-  background: #2487ce;
+  background: #000000;
   color: #fff;
 }
 .contact .php-email-form {
