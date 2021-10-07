@@ -116,7 +116,7 @@ h1, h2, h3, h4, h5, h6 {
 --------------------------------------------------------------*/
 #header {
   transition: all 0.5s;
-  background: #fff;
+  background: #FB7813;
   z-index: 997;
   padding: 15px 0;
   border-bottom: 1px solid #e6f2fb;
@@ -170,8 +170,8 @@ h1, h2, h3, h4, h5, h6 {
   align-items: center;
   justify-content: space-between;
   padding: 10px 0 10px 30px;
-  font-size: 14px;
-  color: #16507b;
+  font-size: 17px;
+  color: #000000;
   white-space: nowrap;
   transition: 0.3s;
 }
@@ -1523,7 +1523,7 @@ section {
 #footer {
   color: #444444;
   font-size: 14px;
-  background: #f8fbfe;
+  background: #44A9B3;
   box-shadow: 0px 2px 15px rgba(18, 66, 101, 0.08);
 }
 #footer .footer-top {
